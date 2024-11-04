@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb030d78-4941-44a8-933b-3b590c1b6c95" name="Changes" comment="">
+    <list default="true" id="cb030d78-4941-44a8-933b-3b590c1b6c95" name="Changes" comment="cors-anywhere">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
@@ -55,9 +55,22 @@
       <updated>1730707029000</updated>
       <workItem from="1730707030724" duration="649000" />
     </task>
+    <task id="LOCAL-00001" summary="cors-anywhere">
+      <option name="closed" value="true" />
+      <created>1730710045084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730710045084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cors-anywhere" />
+    <option name="LAST_COMMIT_MESSAGE" value="cors-anywhere" />
   </component>
 </project>

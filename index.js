@@ -5,7 +5,7 @@ const host = process.env.HOST || 'localhost';
 // Listen on a specific port via the PORT environment variable
 const port = process.env.PORT || 3333;
 cors_proxy.createServer({
-    originWhitelist: ['note-n-do-alpha-5771f.web.app', 'app.exmind.app'], // Allow all origins
+    originWhitelist: ['https://note-n-do-alpha-5771f.web.app', 'https://app.exmind.app'], // Allow all origins
     requireHeader: ['origin', 'x-requested-with'],
     removeHeaders: ['cookie', 'cookie2']
 }).listen(port, host, function() {
